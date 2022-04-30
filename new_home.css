@@ -133,22 +133,23 @@ z-index: -1;
         display: none;
     }
     .big_logo{
-       margin-left: 10%;
+       margin-left: 5%;
+       height: 30vh;
     }
     .rotate{
         display: none;
     }
     .food{
         /* display: none; */
-        height: 50vh;
+        height: 30vh;
     }
     .description{
-        margin-left:25%;
+        margin-left:15%;
     }
     .btn1{
         width: 20vw;
         margin-top: 10%;
-        margin-left: -30%;
+        margin-left: -40%;
         border-radius: 18px;
         border: 0px;
         background-color: #78A92D;
@@ -159,7 +160,7 @@ z-index: -1;
     }
     .image_about{
         margin-left: -20%;
-        height: 40vh;
+        height: 20vh;
     }
     .heading_about{
         font-family: pacifico;
